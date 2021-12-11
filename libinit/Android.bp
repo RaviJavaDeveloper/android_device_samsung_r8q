@@ -1,0 +1,13 @@
+//
+// Copyright (C) 2021 The LineageOS Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+cc_library_static {
+    name: "init_samsung_r8q",
+    srcs: ["init_samsung_r8q.cpp"],
+    whole_static_libs: ["//device/samsung/sm8250-common:libinit_samsung_kona"],
+    include_dirs: ["system/core/init"],
+    recovery_available: true,
+}
