@@ -26,10 +26,6 @@ PRODUCT_PACKAGES += \
     fstab.qcom \
     init.recovery.target.rc
 
-# Keystore
-PRODUCT_PACKAGES += \
-    android.hardware.keymaster@4.0-service.samsung
-
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
