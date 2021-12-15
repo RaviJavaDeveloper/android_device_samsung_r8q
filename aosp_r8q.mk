@@ -14,6 +14,8 @@ $(call inherit-product, device/samsung/r8q/device.mk)
 # Inherit some common aosp stuff.
 $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 
+TARGET_BOOT_ANIMATION_RES := 1080
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := aosp_r8q
 PRODUCT_DEVICE := r8q
