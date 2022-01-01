@@ -42,5 +42,5 @@
 
          @see https://www.w3.org/TR/SVG/paths.html#PathData
          -->
-    <string translatable="false" name="config_mainBuiltInDisplayCutout">M 0,0 H -9.866666666666667 V 25.86666666666667 H 9.866666666666667 V 0 H 0 Z @dp</string>
+    <string name="config_mainBuiltInDisplayCutout">M 0,0 M 0,32.15890850722305 a 27.8410914927768,27.8410914927768 0 1,0 0,55.6821829855538625‬ a 27.8410914927768‬,27.8410914927768‬ 0 1,0 0,-55.6821829855538625 Z</string>
 </resources>
