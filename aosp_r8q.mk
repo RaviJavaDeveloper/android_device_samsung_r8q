@@ -35,4 +35,4 @@ PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-G781B
 CUSTOM_DEVICE := SamsungS20FE
 
-PRODUCT_GMS_CLIENTID_BASE := android-samsung-ss
+PRODUCT_GMS_CLIENTID_BASE := android-samsung	
