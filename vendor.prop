@@ -1,0 +1,10 @@
+# RIL
+ro.carrier=unknown
+ro.radio.noril=no
+ro.vendor.epdg.support=true
+ro.vendor.multisim.simslotcount=1
+ro.vendor.use_data_netmgrd=false
+persist.radio.multisim.config=dsds
+persist.vendor.radio.atfwd.start=true
+vendor.sec.rild.libpath=/vendor/lib64/libsec-ril.so
+#vendor.sec.rild.libpath2=/vendor/lib64/libsec-ril-dsds.so
